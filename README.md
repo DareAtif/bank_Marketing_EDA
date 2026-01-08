@@ -1,20 +1,18 @@
-# Bank Marketing Campaign – EDA
+# EDA Project
 
 ## Objective
-Analyze bank marketing data to understand customer behavior.
+Data ko analyze karna aur insights nikalna
 
 ## Tools Used
 - Python
 - Pandas
 - Matplotlib
-- Seaborn
 - VS Code
 
-## Key Insights
-- Job & marital status affect subscription
-- Call duration is important
-- Dataset is imbalanced
-
-
-
+## Steps
+1. Data loading
+2. Cleaning
+3. Visualization
+4. Insights
+5. 
 
